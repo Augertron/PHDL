@@ -1,0 +1,6 @@
+[submodule "PHDL.eclipse"]
+	path = PHDL.eclipse
+	url = https://github.com/Augertron/PHDL.eclipse.git
+[submodule "PHDL.code"]
+	path = PHDL.code
+	url = https://github.com/Augertron/PHDL.code.git
